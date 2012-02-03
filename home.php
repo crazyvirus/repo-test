@@ -1,1 +1,1 @@
-I also edit home.php NEW ONE
+<?php echo "Home page" ;?>
