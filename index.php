@@ -1,1 +1,1 @@
-I edited the file NEW ONE
+<?php echo "hello world" ;?> 
