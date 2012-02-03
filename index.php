@@ -1,5 +1,1 @@
-home_dir
-home.php
-index.php
-index.php~
-<?php echo hello
+I edited the file NEW ONE
